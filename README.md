@@ -27,8 +27,15 @@ This web app is designed for kids to **practice basic arithmetic operations** li
 5. Click **OK** to continue the quiz.
 
 ## 📸 Screenshots
-*(Include screenshots here to showcase the UI)*
+![alt text](image.png)
 
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
 ## 🤝 Contributing
 If you'd like to contribute, feel free to **fork** the repository and submit a **pull request**.
 
